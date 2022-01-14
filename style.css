@@ -1,10 +1,12 @@
 h1 {
     margin-left: 75rem;
-    font-size: 25px;
+    font-size: 35px;
+    font-family: 'Bangers', cursive;
 }
 
 h2 {
     margin-left: 6%;
+    font-family: 'Bangers', cursive;
 }
 
 .container-1 {
