@@ -46,3 +46,12 @@ h2 {
     margin-top: 5%;
     box-shadow: 5px 10px rgb(0, 0, 0);
 }
+
+img {
+    width: 23%;
+}
+
+.btn {
+    margin-top: 12.5%;
+    margin-left: 2%;
+}
