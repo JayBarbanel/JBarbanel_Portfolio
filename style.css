@@ -12,9 +12,9 @@ h2 {
     border-color: rgb(213, 206, 206);
     border-width: 1px;
     width: 20%;
-    margin-left: 1%;
+    margin-left: 30%;
     margin-top: 5%;
-    box-shadow: 5px 10px rgb(0, 0, 0);
+    box-shadow: 5px 10px 10px rgb(0, 0, 0);
 }
 
 .navbar {
@@ -31,10 +31,10 @@ h2 {
     border-style: solid;
     border-color: grey;
     border-width: 1px;
-    width: 20%;
-    margin-left: 1%;
+    width: 5%;
+    margin-left: 30%;
     margin-top: 1%;
-    box-shadow: 5px 10px rgb(0, 0, 0);
+    box-shadow: 5px 10px 10px rgb(0, 0, 0);
 }
 
 .container-3 {
@@ -42,16 +42,40 @@ h2 {
     border-color: grey;
     border-width: 1px;
     width: 20%;
-    margin-left: 1%;
-    margin-top: 5%;
-    box-shadow: 5px 10px rgb(0, 0, 0);
+    margin-left: 30%;
+    margin-top: 2%;
+    box-shadow: 5px 10px 10px rgb(0, 0, 0);
 }
 
 img {
-    width: 23%;
+    width: 40%;
 }
 
 .btn {
     margin-top: 12.5%;
     margin-left: 2%;
+}
+
+.fas {
+    font-size: 20px;
+    color: black;
+}
+
+.fab {
+    margin-left: 20%;
+    color: black;
+}
+
+.far {
+    margin-left: 25%;
+    color: black;
+}
+
+#text {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.self {
+    float: right!important;
 }
