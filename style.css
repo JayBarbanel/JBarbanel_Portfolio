@@ -1,5 +1,5 @@
 h1 {
-    margin-left: 20rem;
+    margin-left: 75rem;
     font-size: 25px;
 }
 
@@ -19,6 +19,7 @@ h2 {
 
 .navbar {
     background-color: rgb(240, 239, 239);
+    position: sticky;
 }
 
 .card {
@@ -52,7 +53,7 @@ img {
 }
 
 .btn {
-    margin-top: 12.5%;
+    margin-top: 22%;
     margin-left: 2%;
 }
 
@@ -73,9 +74,19 @@ img {
 
 #text {
     text-align: center;
-    margin-top: 10%;
+    margin-top: 15%;
 }
 
 .self {
     float: right!important;
+}
+
+.container-4 {
+    border-style: solid;
+    border-color: rgb(213, 206, 206);
+    border-width: 1px;
+    width: 20%;
+    margin-left: 50%;
+    margin-top: 5%;
+    box-shadow: 5px 10px 10px rgb(0, 0, 0);
 }
