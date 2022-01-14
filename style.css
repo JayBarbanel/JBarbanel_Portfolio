@@ -2,3 +2,13 @@ h1 {
     margin-left: 25rem;
     font-size: 25px;
 }
+
+.container {
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+    width: 20%;
+    margin-right: 79%;
+    margin-top: 15%;
+    box-shadow: 5px 10px rgb(0, 0, 0);
+}
