@@ -65,12 +65,12 @@ img {
 }
 
 .fab {
-    margin-left: 20%;
+    margin-left: 5%;
     color: black;
 }
 
 .far {
-    margin-left: 25%;
+    margin-left: 40%;
     color: black;
 }
 
@@ -98,6 +98,10 @@ img {
         background-image: none !important;
         background-size: 0px!important;
     }
+    .container-1 {
+        margin-left: 0%;
+        width: auto!important;
+    }
     .container-2 {
         margin-left: 0%;
         width: auto!important;
@@ -109,6 +113,11 @@ img {
     .container-4 {
         margin-left: 0%;
         width: auto!important;
+    }
+    #text {
+        margin-top: 0%;
+        text-align: left;
+        font-size: 15px;
     }
 }
 
