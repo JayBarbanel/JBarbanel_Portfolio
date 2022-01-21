@@ -1,1 +1,26 @@
-# New_Portfolio_WIP
+# New_Portfolio_WIP# Project Title: My Portfolio
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/)
+
+        
+## Table of contents
+* [Description](#description)
+* [Installation Instructions](#Installation-Instructions)
+* [How to Contribute](#How-to-Contribute)
+* [To Test](#To-Test)
+* [License](#License)
+
+## Description 
+This is my proftlio that features a few of the projects that I have been recently working on. You can also view my LinkedIn, resume & contact information.
+## Installation Instructions
+Simply clone the repo, throw it in VScode and open in default browser, or click the deployment link.
+## Usage
+Click the link, click the projects to view them individually.  Click the navbar buttons to view sections. 
+## How to contribute
+n/a
+## To Test
+n/a
+## License
+MIT
+## Questions
+If you have any questions, feel free to reach me at GitHub.com/JayBarbanel or email me at 
+jbarbanel531@gmail.com
