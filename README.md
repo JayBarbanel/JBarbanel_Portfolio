@@ -27,4 +27,5 @@ jbarbanel531@gmail.com
 
 ## ScreenShot 
 
-![Uploading Screen Shot 2022-01-20 at 5.02.19 PM.png…]()
+![Screen Shot 2022-01-20 at 5 02 19 PM](https://user-images.githubusercontent.com/89555843/150446718-c569aa93-fd30-41b8-a50a-a038affd6374.png)
+
